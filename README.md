@@ -20,11 +20,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='codePath-TipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](https://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time programming with swift, and I had to figure all my errors as I went along. This was really eye opening for me.
 
 ## License
 
